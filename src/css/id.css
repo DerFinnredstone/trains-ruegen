@@ -1,0 +1,57 @@
+:root {
+	--primary-color: #b05279;
+	--secondary-color: #9e86c8;
+	--text-color: #797979;
+	--background: #2e2e2e;
+	--white: #d6d6d6;
+	--blue: #6c99bb;
+	--green: #b4d273;
+	--orange: #e87d3e;
+	--yellow: #e5b567;
+}
+
+#table-of-contents {
+	background-color: var(--yellow);
+	display: flex;
+	justify-content: center;
+	padding: 1%;
+	border-radius: 5px;
+	margin: 2%;
+	text-decoration: none;
+}
+
+#table-of-contents a {
+	background: none;
+	border: none;
+	font-size: 16px;
+	margin: 0 10px;
+	cursor: pointer;
+	color: black;
+	position: relative;
+}
+
+#sass {
+}
+#lanc {
+}
+#saga {
+}
+#binz {
+}
+#liet {
+}
+#berg {
+}
+#tesc {
+}
+#samt {
+}
+#ramb {
+}
+#alte {
+}
+#rueg {
+}
+
+#stral {
+}

@@ -1,11 +1,40 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+// Component Imports
+import "../css/style.css";
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<!doctype html>
+<html lang="en" class="no-js">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script src="../js/modernizr.js"></script>
+		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery-menu.js"></script>
+		<script src="../js/main.js"></script>
+		<title>Trains of Ruegen</title>
+	</head>
+	<body>
+		<header>
+			<div class="cd-dropdown-wrapper">
+				<a class="cd-dropdown-trigger" href="#0"> Menu </a>
+				<nav class="cd-dropdown">
+					<h2>Menu</h2>
+					<ul class="cd-dropdown-content">
+						<li>
+							<a href="index.html"> Index </a>
+						</li>
+						<li>
+							<a href="info.html"> Helpful information </a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<main class="cd-main-content">
+			<div id="copyright">
+				&copy; 2024 - 2025 EMA Gymnasium, Bergen on Ruegen - All Rights
+				Reserved.
+			</div>
+		</main>
+	</body>
+</html>
