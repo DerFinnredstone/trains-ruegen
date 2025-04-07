@@ -1,0 +1,75 @@
+:root {
+	--primary-color: #b05279;
+	--secondary-color: #9e86c8;
+	--text-color: #797979;
+	--background: #2e2e2e;
+	--light-background: #3e3e3e;
+	--white: #d6d6d6;
+	--blue: #6c99bb;
+	--green: #b4d273;
+	--orange: #e87d3e;
+	--yellow: #e5b567;
+}
+
+/*
+Color for Trains
+*/
+
+.re27 {
+	color: #5b9bd5;
+}
+
+.re9 {
+	color: #9b2b48;
+}
+
+.zuggebringer {
+	color: #e2ba86;
+}
+
+.roland {
+	color: #9ec8c2;
+}
+
+/*
+logo
+*/
+.logo {
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*
+Design from the cards
+*/
+.items {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	gap: 20px;
+	padding: 20px;
+}
+
+.station {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: var(--green);
+}
+
+.desc {
+	font-size: 1rem;
+	color: var(--text-color);
+	line-height: 1.6;
+	text-align: justify;
+}
+
+.items div {
+	background-color: var(--light-background); /* Dunkles Grau für jedes Item */
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 15px;
+}
