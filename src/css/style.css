@@ -14,36 +14,6 @@
 	text-align: center;
 }
 
-h1 {
-	font-size: 38px;
-}
-
-h2 {
-	font-size: 34px;
-}
-
-h3 {
-	font-size: 30px;
-}
-
-h4 {
-	font-size: 26px;
-}
-
-h5 {
-	font-size: 22px;
-}
-
-h6 {
-	font-size: 18px;
-}
-
-p {
-	font-size: 14px;
-	text-align: justify;
-	display: flex;
-}
-
 body {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 600;

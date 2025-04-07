@@ -248,5 +248,5 @@
         $(document).mousemove(mousemoveDocument);
 
     };
-})(jQuery);
+})
 
