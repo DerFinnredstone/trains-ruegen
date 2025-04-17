@@ -58,7 +58,7 @@
     {
       "id": "9stral",
       "name": "Stralsund",
-      "description": "WIP.stral"
+      "description": "Stralsund Hauptbahnhof, opened in 1863 and redesigned in 1905 in neo-Gothic style, is the main railway hub of the Hanseatic city. It connects northern Germany with the island of Ruegen and major cities like Berlin and Hamburg. The RE9 regional train runs every two hours between Rostock and Lietzow, continuing alternately to Sassnitz or Ostseebad Binz. The station offers six tracks, barrier-free access, shops, DB services, and direct connections to local buses and taxis."
     }
   ],
   "zugbringer": [
@@ -75,12 +75,12 @@
     {
       "id": "zlaut",
       "name": "Lauterbach",
-      "description": ""
+      "description": "It is located on the single‑track branch line from Bergen auf Ruegen to Lauterbach Mole. This standard‑gauge halt connects the small harbour town of Lauterbach to Putbus and beyond."
     },
     {
       "id": "zlamo",
       "name": "Lauterbach Pier",
-      "description": ""
+      "description": "Lauterbach Mole station is the dual‑gauge terminus (standard + 750 mm narrow gauge) at the edge of the Ruegischer Bodden. It functions as a “Zugbringer” (feeder train) for passengers transferring between the Regio‑Shuttle services and the historic steam‑hauled Rasender Roland."
     }
   ],
   "RE27": [
@@ -92,7 +92,7 @@
     {
       "id": "27safe",
       "name": "Sassnitz Ferry terminal",
-      "description": ""
+      "description": "Sassnitz Faehrhafen station sits directly within the Mukran Port complex on the island of Ruegen, providing seamless rail‑to‑ferry connections to Rønne (Bornholm) and Trelleborg (Sweden). It is the western terminus of the seasonal RE27 service, operated by Hanseatische Eisenbahn, which runs primarily on Saturdays and Sundays between May and October, offering one or two trains per direction per day timed to ferry departures and arrivals"
     }
   ],
   "P101": [
@@ -109,52 +109,57 @@
     {
       "id": "Ppose",
       "name": "Posewald",
-      "description": "x"
+      "description": "Posewald is a request halt at the forest edge, ideal for exploring the Biosphere Reserve trails."
     },
     {
       "id": "Pseel",
       "name": "Seelvitz",
-      "description": "x"
+      "description": "Seelvitz is a small village stop on the Moenchgut peninsula, providing access to nearby farms and footpaths."
     },
     {
       "id": "Psera",
       "name": "Serams",
-      "description": "x"
+      "description": "Serams is a rural town surrounded by open fields and orchards."
     },
     {
       "id": "Pbilb",
       "name": "Baltic resort Binz LB",
-      "description": ""
+      "description": "It is located in the north of Binz’s main station, this tiny stop gives walkers direct access to coastal woodland paths."
     },
     {
       "id": "Pjagd",
       "name": "Jagdschloss",
-      "description": "x"
+      "description": "It is the only halt in the heart of the Granitz forest; it’s the drop‑off point for the 19th‑century hunting lodge of the Prince of Putbus."
     },
     {
       "id": "Pgarf",
       "name": "Garftitz",
-      "description": "x"
+      "description": "It serves the village of Garftitz, offering a gateway to local farm stays and quiet country lanes"
     },
     {
       "id": "Pselw",
       "name": "Sellin West",
-      "description": "x"
+      "description": "On the western edge of the resort town Sellin, this halt is closest to the Sellin sand dunes and western forest park"
     },
     {
       "id": "Pselo",
-      "name": "Baabe East",
-      "description": "x"
+      "name": "Sellin East",
+      "description": "The eastern Sellin station sits near the historic pier and newly restored station building, acting as a scheduled crossing point for trains in high season."
+    },
+    {
+      "id": "Pbaab",
+      "name": "Baabe",
+      "description": "Directly in the coastal spa town of Baabe, known for its beach promenade, Baaber Bollwerk and colourful bathhouses."
     },
     {
       "id": "Pphil",
       "name": "Philippshagen",
-      "description": "x"
+      "description": "Is a request halt serving the small settlement of Philippshagen, famous for its half‑timbered houses."
     },
     {
       "id": "Pgoeh",
       "name": "Goehren",
-      "description": "x"
+      "description": "The eastern terminus at the seaside resort of Goehren, featuring classic resort architecture, a sandy beach and the pier at Seebruecke"
     }
   ]
 }

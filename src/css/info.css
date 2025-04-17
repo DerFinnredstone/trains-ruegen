@@ -68,7 +68,7 @@ Design from the cards | Desktop
 }
 
 .items div {
-	background-color: var(--light-background); /* Dunkles Grau für jedes Item */
+	background-color: var(--light-background); /* Dunkles Grau fuer jedes Item */
 	border-radius: 8px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 	padding: 15px;
