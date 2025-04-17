@@ -5,6 +5,7 @@ dist/
 .astro/
 
 *.dev.*
+src/components/infoparts/*
 
 # logs
 npm-debug.log*

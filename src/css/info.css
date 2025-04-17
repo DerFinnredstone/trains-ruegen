@@ -48,9 +48,9 @@ Design from the cards | Desktop
 */
 .items {
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	gap: 20px;
-	padding: 20px;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+	gap: 15px;
+	padding: 15px;
 }
 
 .station {
@@ -72,24 +72,4 @@ Design from the cards | Desktop
 	border-radius: 8px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 	padding: 15px;
-}
-
-/*
-Design from the cards | Mobile(678px)
-*/
-
-@media (max-width: 678px) {
-	.items {
-		grid-template-columns: 1fr;
-		gap: 10px;
-		padding: 10px;
-	}
-
-	.station {
-		font-size: 1.2rem;
-	}
-
-	.desc {
-		font-size: 0.95rem;
-	}
 }
