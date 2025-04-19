@@ -6,6 +6,7 @@ import "../css/info.css";
 import "../css/desktop.css";
 import "../css/mobile.css";
 import Footer from "../components/footer.astro";
+import Head from "../components/header.astro";
 
 //parts
 import Sass from "../components/parts/sass.astro";
@@ -51,23 +52,7 @@ import Goeh from "../components/parts/goeh.astro";
 		<meta charset="UTF-8" />
 	</head>
 	<body>
-		<header>
-			<div class="cd-dropdown-wrapper">
-				<a class="cd-dropdown-trigger" href="#0"> Menu </a>
-				<nav class="cd-dropdown">
-					<h2>Menu</h2>
-					<a href="#0" class="cd-close"> Close </a>
-					<ul class="cd-dropdown-content">
-						<li>
-							<a href="index.html"> Index </a>
-						</li>
-						<li>
-							<a href="info.html"> Helpful Information </a>
-						</li>
-					</ul>
-				</nav>
-			</div>
-		</header>
+		<Head />
 		<main class="cd-main-content">
 			<h1 class="center re9">
 				RE9 <br /> Stralsund - Sassnitz; Baltic resort Binz
